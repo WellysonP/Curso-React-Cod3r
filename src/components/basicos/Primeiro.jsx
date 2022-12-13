@@ -1,7 +1,7 @@
 export default function Primeiro() {
     return (
         <div>
-            <h2>JSX</h2>
+            <h2>O primeito export default</h2>
         </div>
     )
 }
